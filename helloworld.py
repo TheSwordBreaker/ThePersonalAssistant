@@ -1,3 +1,3 @@
-print("hiiii")
-print("another line")
-print("one more")
+print(hiiii)
+print(another line)
+
